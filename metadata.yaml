@@ -1,0 +1,25 @@
+_repo: The-Art-of-Lead-Burning-A-practical-treatise-explaining-the-apparatus-and-processes_52835
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fay, C. H.
+    gutenberg_agent_id: '47070'
+    url: http://www.gutenberg.org/2009/agents/47070
+description: ''
+gutenberg_issued: '2016-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52835'
+  lccn: 05018167
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lead burning'
+- !lcc 'TH'
+- GITenberg
+title: 'The Art of Lead Burning
+
+  A practical treatise explaining the apparatus and processes.'
+url: http://www.gutenberg.org/ebooks/52835
