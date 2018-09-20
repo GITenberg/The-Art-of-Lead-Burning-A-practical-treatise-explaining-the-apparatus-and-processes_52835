@@ -1,11 +1,16 @@
 _repo: The-Art-of-Lead-Burning-A-practical-treatise-explaining-the-apparatus-and-processes_52835
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 52835-h/images/cover.jpg
 creator:
   author:
     agent_name: Fay, C. H.
     gutenberg_agent_id: '47070'
     url: http://www.gutenberg.org/2009/agents/47070
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52835#The-Art-of-Lead-Burning-A-practical-treatise-explaining-the-apparatus-and-processes
 gutenberg_issued: '2016-08-18'
 gutenberg_type: Text
 identifiers:
